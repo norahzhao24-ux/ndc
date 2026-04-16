@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://nova-dermacare-app-jqg7.vercel.app/",
-      "permanent": true
-    }
-  ]
-}
